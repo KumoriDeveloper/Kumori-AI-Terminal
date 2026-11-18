@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Секреты Ryoku AI Terminal
+credentials.env
+*.env
+.env.*
+config.toml
+history.db
+history.db-*
+*.db-wal
+*.db-shm
+
+# Локальные данные
+*.log
+.cache/
